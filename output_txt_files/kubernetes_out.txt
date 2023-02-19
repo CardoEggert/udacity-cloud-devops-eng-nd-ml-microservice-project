@@ -1,0 +1,9 @@
+pod/udacity-project-submission created
+Waiting for pod to get into status ready...
+pod/udacity-project-submission condition met
+Pod is ready!
+NAME                         READY   STATUS    RESTARTS   AGE
+udacity-project-submission   1/1     Running   0          3s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
